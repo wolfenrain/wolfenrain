@@ -13,3 +13,5 @@ You can find some of the packages I wrote here, but most of my work is on my [Gi
 ### Sponsering?
 
 [![Github Badge](https://img.shields.io/badge/Github%20Sponsor-c96198?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sponsors/wolfenrain) 
+
+I work on my packages in my free time and my free time is limited. So if any of my packages is helping you, please consider sponsoring me. This will allow me to work more on my packages and contribute more to the Flutter community!

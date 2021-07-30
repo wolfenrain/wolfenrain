@@ -1,16 +1,15 @@
 ### Hi there 👋
 
-<!--
-**wolfenrain/wolfenrain** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi there, my name is Jochum van der Ploeg also known as wolfenrain and I'm a Flutter developer from the Netherlands 🇳🇱.
 
-Here are some ideas to get you started:
+I'm also one of the maintainers of the Flame Engine, a game engine for the Flutter Framework.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+You can find some of the packages I wrote here, but most of my work is on my [Gitlab profile](https://gitlab.com/wolfenrain)
+
+### Reach me on
+
+[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jochum-van-der-ploeg/) [![Twitter Badge](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/intent/follow?screen_name=wolfenrain) [![Gitlab Badge](https://img.shields.io/badge/Gitlab-303030?style=for-the-badge&logo=gitlab&logoColor=white)](https://gitlab.com/wolfenrain)
+
+### Sponsering?
+
+[![Github Badge](https://img.shields.io/badge/Github%20Sponsor-c96198?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sponsors/wolfenrain) 

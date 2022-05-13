@@ -1,17 +1,30 @@
 ### Hi there 👋
 
-Hi there, my name is Jochum van der Ploeg also known as wolfenrain and I'm a Flutter developer from the Netherlands 🇳🇱.
+I'm an open source software engineer at [Very Good Ventures](https://verygood.ventures) and I'm from the Netherlands 🇳🇱.
 
-I'm also one of the maintainers of the Flame Engine, a game engine for the Flutter Framework.
+- 🔥 I’m actively maintaining the [Flame Engine](https://flame-engine.org).
+- 🧑‍💻 I’m am a member of the [Blue Fire Team](https://github.com/bluefireteam).
+- 💬 Ask me about shaders and rendering in [Flutter](https://flutter.dev).
+- 😄 Pronouns: he/him/his
+- ⚡ Fun fact: I own a working Commodore 64 that is older than I am.
 
-You can find some of the packages I wrote here, but most of my work is on my [Gitlab profile](https://gitlab.com/wolfenrain)
+### Open Source Projects
 
-### Reach me on
+[![Flame Engine](https://github-readme-stats.vercel.app/api/pin/?username=flame-engine&repo=flame)](https://github.com/flame-engine/flame)
+[![Umbra](https://github-readme-stats.vercel.app/api/pin/?username=wolfenrain&repo=umbra)](https://github.com/wolfenrain/umbra)
+[![Oxygen](https://github-readme-stats.vercel.app/api/pin/?username=flame-engine&repo=oxygen)](https://github.com/flame-engine/oxygen)
 
-[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jochum-van-der-ploeg/) [![Twitter Badge](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/intent/follow?screen_name=wolfenrain) [![Gitlab Badge](https://img.shields.io/badge/Gitlab-303030?style=for-the-badge&logo=gitlab&logoColor=white)](https://gitlab.com/wolfenrain)
+And I also maintain the Twilio Flutter packages:
+- [Twilio Programmable Video](https://gitlab.com/twilio-flutter/programmable-video)
+- [Twilio Conversations](https://gitlab.com/twilio-flutter/conversations)
+
+### Github Stats
+
+[![wolfenrain's Github Stats](https://github-readme-stats.vercel.app/api?username=wolfenrain&count_private=true&theme=default&show_icons=true)](https://github.com/wolfenrain)
 
 ### Sponsering?
 
+I work on my packages in my free time and my free time is limited. So if any of my packages is helping you, please consider sponsoring me. This will allow me to work more on my packages and contribute more to the Flutter community!
+
 [![Github Badge](https://img.shields.io/badge/Github%20Sponsor-c96198?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sponsors/wolfenrain) 
 
-I work on my packages in my free time and my free time is limited. So if any of my packages is helping you, please consider sponsoring me. This will allow me to work more on my packages and contribute more to the Flutter community!

@@ -1,19 +1,19 @@
 ### Hi there 👋
 
-I'm an open source software engineer at [Very Good Ventures](https://verygood.ventures) and I'm from the Netherlands 🇳🇱.
+I'm a senior open source software engineer at [Very Good Ventures](https://verygood.ventures) and I'm from the Netherlands 🇳🇱.
 
 - 🔥 I’m actively maintaining the [Flame Engine](https://flame-engine.org).
 - 🧑‍💻 I’m am a member of the [Blue Fire Team](https://github.com/bluefireteam).
-- 💬 Ask me about shaders and rendering in [Flutter](https://flutter.dev).
+- 💬 Ask me about shaders, end-to-end testing and rendering in [Flutter](https://flutter.dev).
 - 😄 Pronouns: he/him/his
 - ⚡ Fun fact: I own a working Commodore 64 that is older than I am.
 
 ### Open Source Projects
 
 [![Flame Engine](https://github-readme-stats.vercel.app/api/pin/?username=flame-engine&repo=flame)](https://github.com/flame-engine/flame)
-[![Umbra](https://github-readme-stats.vercel.app/api/pin/?username=wolfenrain&repo=umbra)](https://github.com/wolfenrain/umbra)
-[![Oxygen](https://github-readme-stats.vercel.app/api/pin/?username=flame-engine&repo=oxygen)](https://github.com/flame-engine/oxygen)
 [![Fluttium](https://github-readme-stats.vercel.app/api/pin/?username=wolfenrain&repo=fluttium)](https://github.com/wolfenrain/fluttium)
+[![Goose](https://github-readme-stats.vercel.app/api/pin/?username=wolfenrain&repo=goose)](https://github.com/wolfenrain/goose)
+[![Umbra](https://github-readme-stats.vercel.app/api/pin/?username=wolfenrain&repo=umbra)](https://github.com/wolfenrain/umbra)
 
 And I also maintain the Twilio Flutter packages:
 - [Twilio Programmable Video](https://gitlab.com/twilio-flutter/programmable-video)
